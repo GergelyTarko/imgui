@@ -1,4 +1,4 @@
-project "RaCoS"
+project "ImGui"
     kind "StaticLib"
     language "C++"
     
